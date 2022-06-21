@@ -1,5 +1,5 @@
 <img
-            src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi there 👋, I'm Bogdan!.&desc=Here's my profile 👇&fontSize=24"
+            src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=250&section=header&text=Hi%20there%20👋,%20I'm%20Bogdan!&desc=Here's%20my%20profile%20👇&fontSize=32&animation=fadeIn&fontAlignY=32&descsize=18&descAlignY=47"
             alt=""
         />
         <!-- <h1 align="center">Hi there 👋, I'm Bogdan!</h1> -->
@@ -11,7 +11,7 @@
             />
         </div>
         <img
-            src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"
+            src="https://capsule-render.vercel.app/api?type=waving&color=0:85FFBD,100:FFFB7D&height=150&section=footer"
             alt=""
         />
 
