@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Bogdan!</h1>
+Hi there 👋, I'm Bogdan!
 
 <!--
 **bogdan-manescu/bogdan-manescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
