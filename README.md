@@ -3,7 +3,6 @@
             alt=""
         />
         <p>📧 Reach out to me at **bogdan.manescu.2015@gmail.com**</p>
-        <br />
         <h3>Tehnologies I use ⤵️</h3>
         <span>
             <img
@@ -62,8 +61,6 @@
             />
         </span>
         <div>
-            <br />
-            <br />
             <br />
             <img
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogdan-manescu&layout=compact"
