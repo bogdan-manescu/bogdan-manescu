@@ -1,19 +1,13 @@
 <img
-            src="https://capsule-render.vercel.app/api?type=wave&color=0:00DBDE,100:FC00FF&height=250&section=header&text=Hi%20there%20👋,%20I'm%20Bogdan!&desc=Here's%20my%20profile%20👇&fontSize=32&animation=fadeIn&fontAlignY=25&descsize=18&descAlignY=40"
+            src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=250&section=header&text=Hi%20there%20👋,%20I'm%20Bogdan!&desc=Here's%20my%20profile%20👇&fontSize=32&animation=fadeIn&fontAlignY=30&descsize=18&descAlignY=50&fontColor=fff"
             alt=""
         />
-        <!-- <h1 align="center">Hi there 👋, I'm Bogdan!</h1> -->
-        <!-- <h3 align="center">Here's my profile 👇</h3> -->
         <div>
             <img
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogdan-manescu&layout=compact"
                 alt="bogdan-manescu most used languages"
             />
         </div>
-        <img
-            src="https://capsule-render.vercel.app/api?type=wave&color=100:00DBDE,0:FC00FF&height=150&section=footer"
-            alt=""
-        />
 
 
 <!--
