@@ -2,7 +2,7 @@
             src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=250&section=header&text=Hi%20there%20👋,%20I'm%20Bogdan!&desc=Here's%20my%20profile%20⤵️&fontSize=32&animation=fadeIn&fontAlignY=30&descsize=18.72&descAlignY=50&fontColor=fff"
             alt=""
         />
-        <p>📬 Reach out to me at **bogdan.manescu.2015@gmail.com**</p>
+        <p>📫 Reach out to me at **bogdan.manescu.2015@gmail.com**</p>
         <h3>Tehnologies I use ⤵️</h3>
         <a
             href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
