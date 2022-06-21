@@ -1,5 +1,5 @@
 <img
-            src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=250&section=header&text=Hi%20there%20👋,%20I'm%20Bogdan!&desc=Here's%20my%20profile%20👇&fontSize=32&animation=fadeIn&fontAlignY=32&descsize=18&descAlignY=47"
+            src="https://capsule-render.vercel.app/api?type=waving&color=0:fceabb,100:f8b500&height=250&section=header&text=Hi%20there%20👋,%20I'm%20Bogdan!&desc=Here's%20my%20profile%20👇&fontSize=32&animation=fadeIn&fontAlignY=32&descsize=18&descAlignY=47"
             alt=""
         />
         <!-- <h1 align="center">Hi there 👋, I'm Bogdan!</h1> -->
